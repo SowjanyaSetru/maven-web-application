@@ -99,13 +99,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>canara bank Releases Nexus Repository</name>
+	      <name>Canara Bank Releases Nexus Repository</name>
 	      <url>https://3.107.19.249:8081/repository/canarabank-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>canara bank Snapshot Nexus Repository</name>
+	      <name>Canara Bank Snapshot Nexus Repository</name>
 	      <url>https://3.107.19.249:8081/repository/canarabank-snapshot/</url>
 	    </snapshotRepository>
 	    
