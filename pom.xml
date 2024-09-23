@@ -22,7 +22,7 @@
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
 		<sonar.host.url>http://18.138.81.149:9000/</sonar.host.url>
-		<sonar.login></sonar.login>
+		<sonar.login>squ_a970590523dcbdd7e2c1479afd05ee83a4d184d0</sonar.login>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
@@ -96,13 +96,13 @@
 	
 	    <repository>
 	      <id>nexus</id>
-	      <name>canara bank Releases Nexus Repository</name>
+	      <name>canarabank Releases Nexus Repository</name>
 	      <url>http://172.31.7.117:8081/repository/canarabank-releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>canara bank Snapshot Nexus Repository </name>
+	      <name>canarabank Snapshot Nexus Repository </name>
 	      <url>http://172.31.7.117:8081/repository/canarabank-snapshot/</url>
 	    </snapshotRepository>
 	    
